@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+    background: #ffffff;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    padding: 40px;
+    background: #f5f5f5;
+}
+
+h1 {
+    letter-spacing: 2px;
+}
+
+#products {
+    padding: 40px;
+}
+
+.product {
+    border: 1px solid #eee;
+    padding: 20px;
+    margin: 20px;
+    width: 250px;
+    display: inline-block;
+}
+
+button {
+    background: black;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}

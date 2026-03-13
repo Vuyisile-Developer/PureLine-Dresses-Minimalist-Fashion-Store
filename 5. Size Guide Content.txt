@@ -1,0 +1,16 @@
+Size Guide
+
+Small
+Bust: 34 in
+Waist: 26 in
+Hips: 36 in
+
+Medium
+Bust: 36 in
+Waist: 28 in
+Hips: 38 in
+
+Large
+Bust: 38 in
+Waist: 30 in
+Hips: 40 in
