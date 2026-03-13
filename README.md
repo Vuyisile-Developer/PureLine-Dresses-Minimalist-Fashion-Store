@@ -1,4 +1,5 @@
 PureLine Dresses – Minimalist Fashion Store
+
 Tagline: Where Simplicity Meets Style
 
 About the Project
